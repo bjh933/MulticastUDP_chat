@@ -1,8 +1,4 @@
-/*	2017년 1학기 네트워크프로그래밍 숙제 2번
-     성명: 변지훈
-     학번: 122021 	*/
-
-#pragma comment(lib, "ws2_32")
+/#pragma comment(lib, "ws2_32")
 #include <winsock2.h>
 #include <stdlib.h>
 #include <stdio.h>
